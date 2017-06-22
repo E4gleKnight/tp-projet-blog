@@ -1,0 +1,14 @@
+#title{
+    padding: 20px;
+    border: dashed 1px black;
+    background-color: #2aabd2;
+}
+#separation{
+    border-bottom: solid 1px black;
+    padding: 10px;
+    margin: 20px;
+}
+#article{
+    padding: 20px;
+    background-color: #e4b9c0;
+}
